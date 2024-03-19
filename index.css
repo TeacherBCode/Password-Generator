@@ -1,0 +1,24 @@
+body {
+    margin : 0rem;    
+}
+
+.headText{
+    color: #4ADF86;
+}
+
+hr{
+    text-align: center;
+    width: 80%;    
+}
+
+.passBox{
+    background-color: #273549;
+    width: 10rem;
+    height: 2rem;
+}
+
+.passContainer{
+    margin-left:4rem;
+    margin-top: 2rem;
+}
+
