@@ -9,6 +9,7 @@ const letters_numbers_symbols = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J
 
 const button = document.getElementById("generatePassword");
 
+
 const passOneBox = document.getElementById("passOneBox");
 const passTwoBox = document.getElementById("passTwoBox")
 const passOne = document.getElementById("passOne");
@@ -18,7 +19,7 @@ const numbersBtn = document.getElementById("numbersBtn");
 
 
 // Characters based on users requirements:
-let characters = [];
+let characters = [1,2];
 
 
 button.addEventListener("click", function () {
